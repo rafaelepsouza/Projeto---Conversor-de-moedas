@@ -1,4 +1,4 @@
-Esse é um projeto que realizei no DevClub, um conversor de moedas. 
+Esse é um projeto que fiz no DevClub, um conversor de moedas. 
 
 Ele funciona da seguinte forma:
 
