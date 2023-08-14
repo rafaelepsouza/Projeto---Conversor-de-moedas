@@ -8,7 +8,7 @@ Ele funciona da seguinte forma:
 - Logo abaixo inserimos o valor em real para conversão;
   ![PASSO 2](https://github.com/rafaelepsouza/Projeto---Conversor-de-moedas/assets/132941947/30200aa2-3d05-4017-8c91-8cbcdf4f25f9)
 
-- E ao clicar em converter temos o resultado do valor convertido para a moeda escolhida.
+- E ao clicar em no botão de "CONVERTER" temos o resultado do valor convertido para a moeda escolhida.
   ![PASSO 3](https://github.com/rafaelepsouza/Projeto---Conversor-de-moedas/assets/132941947/fa416c8e-0c6e-4576-b628-4467aac76852)
 
 
